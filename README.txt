@@ -5,7 +5,7 @@ para controlar el volumen del sistema a través de gestos de mano.
 Utiliza la biblioteca MediaPipe para el seguimiento de manos y OpenCV para el procesamiento de imágenes.
 
 Requisitos:
-Python 3.x
+Python 3.10
 OpenCV
 NumPy
 MediaPipe
